@@ -90,5 +90,6 @@ The library is organized as a clean ES6 module tree:
 - `src/quantum/`
 - `src/visualization/`
 
-This project is intentionally educational and architectural. The physics and biology are simplified so the code stays readable and easy to extend.
+This project is intentionally educational and architectural. <br> 
+The physics and biology are simplified so the code stays readable and easy to extend. <br>
 Every file is heavily commented in English so the metaphor remains easy to follow and extend.

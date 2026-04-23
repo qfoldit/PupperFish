@@ -27,8 +27,6 @@ The metaphor is inspired by the white-spotted pufferfish, which builds radial sa
 - **Drug docking** becomes a score-guided placement search around a target site.
 - **Quantum optimization** is represented as a remote-call adapter for a theoretical Qiskit-style API.
 
-This project is intentionally educational and architectural. The physics and biology are simplified so the code stays readable and easy to extend.
-
 ## Install
 
 ```bash
@@ -92,5 +90,5 @@ The library is organized as a clean ES6 module tree:
 - `src/quantum/`
 - `src/visualization/`
 
+This project is intentionally educational and architectural. The physics and biology are simplified so the code stays readable and easy to extend.
 Every file is heavily commented in English so the metaphor remains easy to follow and extend.
-
